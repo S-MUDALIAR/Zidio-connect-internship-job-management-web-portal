@@ -166,6 +166,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
    For support, email sejalmudaliar774@gmail.com or create an issue in the repository.
 
 
-## 🔗 Related Projects
+## 🔗 Related Projects  
 ZIDIOConnect Frontend - React.js frontend application ( IN WORK ) 
  
