@@ -6,8 +6,8 @@ Hiring Platform backend using java springboot , restful API and mysql
 
 A comprehensive, production-ready backend for ZIDIOConnect - a modern internship and job portal platform connecting students, recruiters, and companies. Built with Spring  Boot, featuring robust security, real-time notifications, and advanced analytics.
 
-## 🚀 Features
- ### 🔐 Authentication & Authorization
+##  Features
+ ###  Authentication & Authorization
    1. JWT-based authentication with refresh tokens
 
    2. Role-based access control (Student, Recruiter, Admin)
@@ -16,14 +16,14 @@ A comprehensive, production-ready backend for ZIDIOConnect - a modern internship
 
    4. Session management with token expiration
 
- ### 👥 User Management
+ ###  User Management
    1. Student Profiles: Resume upload, skills management, application tracking
 
    2. Recruiter Profiles: Company information, job posting management
 
    3. Admin Dashboard: User management, content moderation, analytics
 
- ### 💼 Job & Internship System
+ ###  Job & Internship System
    1. Advanced job posting with rich text descriptions
 
    2. Smart search and filtering (location, salary, job type)
@@ -32,7 +32,7 @@ A comprehensive, production-ready backend for ZIDIOConnect - a modern internship
 
    4. Bookmarking and recommendation system
 
- ### 💳 Payment & Subscription System
+ ###  Payment & Subscription System
    1. Multiple subscription plans (Free, Premium, Enterprise)
 
    2. Secure payment processing
@@ -41,7 +41,7 @@ A comprehensive, production-ready backend for ZIDIOConnect - a modern internship
 
    4. Subscription status tracking
   
- ### 📊 Analytics & Dashboard
+ ###  Analytics & Dashboard
    1. Real-time application statistics
 
    2. User activity tracking
@@ -50,7 +50,7 @@ A comprehensive, production-ready backend for ZIDIOConnect - a modern internship
 
    4. Admin reporting system
 
- ### 📧 Notification System
+ ###  Notification System
    1. Email notifications for application updates
 
    2. Registration confirmations
@@ -59,7 +59,7 @@ A comprehensive, production-ready backend for ZIDIOConnect - a modern internship
 
    4. Customizable email templates
 
- ### 🛡️ Security Features
+ ###  Security Features
    1. SQL injection prevention
 
    2. XSS protection
@@ -70,7 +70,7 @@ A comprehensive, production-ready backend for ZIDIOConnect - a modern internship
 
    5. Secure file uploads
 
- ### 🛠️ Technology Stack
+ ###  Technology Stack
    1. Backend Framework: Spring Boot 2.7.0
 
    2. Security: Spring Security + JWT
@@ -87,7 +87,7 @@ A comprehensive, production-ready backend for ZIDIOConnect - a modern internship
 
    8. Java Version: 11+
 
-## 📋 Prerequisites
+##  Prerequisites
    ### Before running this application, ensure you have:
 
    1. Java 11 or higher
@@ -100,7 +100,7 @@ A comprehensive, production-ready backend for ZIDIOConnect - a modern internship
 
    5. SMTP server (Gmail, Outlook, etc.)
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
    ### Clone the Repository
     git clone https://github.com/yourusername/ZidioConnect.git
     cd zidioconnect-backend
@@ -153,7 +153,7 @@ A comprehensive, production-ready backend for ZIDIOConnect - a modern internship
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
    1. Spring Boot community
 
    2. MySQL documentation
@@ -163,11 +163,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
    4. All contributors and testers
 
 ## 📞 Support
-   For support, email palmiasaksham@gmail.com or create an issue in the repository.
+   For support, email sejalmudaliar774@gmail.com or create an issue in the repository.
 
 
 ## 🔗 Related Projects
-ZIDIOConnect Frontend - React.js frontend application ( IN WORK ) 🚀
-
-If you find this project helpful, please give it a ⭐ on GitHub!
->>>>>>> a3c5418 (Initial commit)
+ZIDIOConnect Frontend - React.js frontend application ( IN WORK ) 
+ 
